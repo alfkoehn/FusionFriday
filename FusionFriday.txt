@@ -1159,6 +1159,14 @@ center to fusion conditions.
 #FusionFriday
 https://twitter.com/formbar/status/1398286714901237765
 
+() 2021-06-04   + GIF
+The tritium (T) burn-up fraction is the ratio of T consumed in the DT fusion 
+reaction, the rest is lost to the vessel walls and then recycled. Larger values 
+mean less T inventory, which is good. ITER aims at 1%, a power plant of similar 
+type at a few percent. 
+#FusionFriday
+https://twitter.com/formbar/status/1400836891566542849
+
 NEW:
 () 
 
